@@ -24,7 +24,7 @@ A simple and efficient image storage server built with [NestJS](https://nestjs.c
 ## 📜 Documentation
 For full API details and deployment instructions, visit the **official documentation**:
 
-📄 **Docs:** [https://sic.techwork.store](https://sic.techwork.store)  
+📄 **Docs:** [Click Here](https://documenter.getpostman.com/view/26168270/2sAYdimUhk)  
 🚀 **Deployments:** [https://sic.techwork.store](https://sic.techwork.store)
 
 ## 🏷️ Created By
